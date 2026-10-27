@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+*.bak
+*.tmp
+.vscode/
+.pio/
+firmware/AquaPal/config.h
+*.bin
+*.elf
+*.map
+*.hex
